@@ -15,7 +15,7 @@ The first implementation of ai agents using open source LLM's
 [Interesting crewAI links](https://github.com/SamparkAI)
 ## Build a crew
 ## Agents and tools
-
+[Composio](https://blog.composio.dev/crewai-examples/)
 [From Crewai API](https://docs.crewai.com/how-to/Creating-a-Crew-and-kick-it-off/#introduction)
 
 ```bash
