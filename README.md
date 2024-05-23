@@ -12,7 +12,7 @@ The first implementation of ai agents using open source LLM's
 
 [Tree of thoughts prompting](https://promptengineering.org/tree-of-thought-prompting-walking-the-path-of-unique-approach-to-problem-solving/)
 
-
+[Interesting crewAI links](https://github.com/SamparkAI)
 ## Build a crew
 ## Agents and tools
 
